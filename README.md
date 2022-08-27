@@ -6,7 +6,7 @@ I am a Full-Stack software developer, working mainly with the PERN (PostgreSQL, 
 - 🌱 I’m currently learning Typescript with React
 - 👯 I’m looking to collaborate on anything
 
-### Tech stack
+### What I use
 
 <div align="center">
   <img style="height: 3em" src="/TechStack/html-1.svg" alt="html"/>
